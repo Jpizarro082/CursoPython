@@ -15,7 +15,3 @@ print(telefono.memoria_ram)
 print(telefono.almacenamiento)
 
 print(telefono.llamar("Llamando a Aurora"))
-    
-    
-    
-    
