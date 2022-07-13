@@ -14,7 +14,7 @@ int main (){
 }
 
 void cumple(int *p){
-    printf("%d\n", p);
+    printf("La dirección es %d\n", p);
     *p+=1;
-    printf("%d\n", p);
+    printf("La dirección es%d\n", p);
 }
